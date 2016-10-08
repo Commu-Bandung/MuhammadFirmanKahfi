@@ -18,5 +18,5 @@ Commu is Application for find sponsorship and partnership  between the company a
 
 NPM| Nama| Kelas | Program Studi
 ------------ | ------------- | ------------- | -------------
-1144025| Gentur Ariyadi Sidiq PY| 3B| D4 Teknik Informatika Politeknik Pos Indonesia
+1144025| Gentur Ariyadi Sidiq Permana Yakti| 3B| D4 Teknik Informatika Politeknik Pos Indonesia
 1144015| Muhammad Firman Kahfi| 3B| D4 Teknik Informatika Politeknik Pos Indonesia
