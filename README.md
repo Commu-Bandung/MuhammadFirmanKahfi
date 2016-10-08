@@ -5,13 +5,13 @@
 Commu is Application for find sponsorship and partnership  between the company and the organization / community college
 
 ## Pre Requisite
-* Windows 10 Anniversary Update
-* Laravel Technology
-* Android 2.2
+* Windows 10
+* Laravel PHP Framework
+* Android Technology
 * MySQL
 * Firebase
 * Google Cloud Platform
-* Google App Engine
+* Google App Engine Technology
 
 ## About
 
