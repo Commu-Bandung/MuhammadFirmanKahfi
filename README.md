@@ -10,7 +10,7 @@ Commu is Application for find sponsorship and partnership  between the company a
 * Laravel PHP Framework
 * Android Technology
 * MySQL
-* Firebase
+* Firebase Technology
 * Google Cloud Platform
 * Google App Engine Technology
 
