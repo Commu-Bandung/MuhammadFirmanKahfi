@@ -16,5 +16,5 @@ Terdapat beberapa masalah yang dihadapi oleh perusahaan untuk mencari penerima d
 <br>
 2. Sulitnya melakukan pencarian partnership dengan Organisasi/Komunitas kampus.
 <br>
-3. 3.	Kurangnya informasi event yang diselenggarakan oleh Organisasi/Komunitas kampus dan lokasi yang tidak terjangkau
+3. Kurangnya informasi event yang diselenggarakan oleh Organisasi/Komunitas kampus dan lokasi yang tidak terjangkau
 </p>
