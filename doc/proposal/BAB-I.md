@@ -1,0 +1,20 @@
+<h2 align="center">BAB I <br> PENDAHULUAN</h2>
+<strong>1.1 Latar Belakang</strong>
+<p align="justify">
+Di era zaman saat ini perkembangan teknologi semakin pesat dan cepat, khususnya teknologi informasi dan komunikasi. Hal ini membuat manusia bagaikan tak terpisah oleh jarak ruang dan waktu. Dengan perkembangan teknologi yang kian maju, manusia dapat membuat berbagai macam peralatan sebagai alat bantu dalam menjalankan berbagai aktivitas untuk mendukung produktifitas. Serta seiring dengan tingkat mobilitas yang tinggi, beberapa tahun terakhir tengah marak perangkat bergerak atau mobile device. Salah satu perangkat mobile yang paling pesat adalah smartphone dimana hampir setiap orang memilikinya. smartphone yang sedianya sebagai alat komunikasi, saat ini sudah lebih dari fungsi dasarnya. Berbagai bidang ikut mengalami perkembangan, mulai dari bidang sosial budaya, ekonomi, pendidikan, politik, dan teknologi.
+<br>
+Dengan cepatnya perkembangan teknologi informasi, membuat informasi dapat diperoleh dengan cepat, lengkap dan akurat. Tentu ini akan sangat membantu kegiatan perencanaan, pencarian suatu data, pengelolaan kerjasama dan pengambilan keputusan terutama yang berkaitan dengan bidang penyimpanan data. Hal inilah yang menyebabkan kemampuan bersaing dalam hal penyimpanan data yang aman, akurat dan akan sangat bergantung pada penggunaan teknologi informasi ini. Oleh karena itu dibutuhkan sebuah Aplikasi untuk pencarian data perusahaan yang menyediakan sponsorship untuk dukungan finansial agar sebuah organisasi/komunitas kampus dapat menyelenggarakan event, pencarian organisasi/komunitas kampus terdekat di suatu daerah agar ketika ada event mudah mencari lokasinya.
+<br>
+Dengan adanya masalah tersebut maka dibutuhkan sebuah perangkat lunak komputer yang memanfaatkan kemampuan komputer langsung untuk melakukan suatu tugas yang diinginkan pengguna untuk mengelola suatu perusahaan yang ingin memberi dukungan finansial dan bekerjasama dengan pihak organisasi/komunitas kampus secara kompleks dan efektif serta menyebar luaskan informasi event dengan cepat dan terpercaya. Dalam hal ini kami berusaha ingin merancang dan membuat sebuah aplikasi Website dengan menggunakan bahasa pemrograman PHP (Hypertext Prepocessor) dengan Framework Laravel yang digunakan untuk menginterasikan sistem dengan database yang menggunakan MySQL untuk melakukan pengelolaan dan pendataan dari perusahaaan yang memberikan dukungan finansial sponsorship dengan Smartphone berbasis OS Android dengan bahasa pemrograman Java. dan sistem ini memiliki fitur webservice untuk mengolah data dan melakukan pencarian data, serta memudahkan suatu Organisasi/Komunitas untuk bekerjasama dengan perusahaan ketika membuat event supaya lebih efektif dan efisien. Agar dapat membuat pengolahan data yang mudah dioperasikan dan dirancang pada perusahaan maka kami tertarik memberi judul proyek ini dengan judul “Perancangan dan Implementasi Aplikasi Pencarian Sponsor dan Partnership antara Organisasi/Komunitas Kampus dengan Perusahaan berbasis Website (Framework Laravel) dan Mobile (Android)  (Sub Modul Pengelolaan Sponsor dari Perusahaan dan Partnership)”.
+</p>
+<br>
+<strong>1.2	Identifikasi Masalah</strong>
+<p align="justify">
+Terdapat beberapa masalah yang dihadapi oleh perusahaan untuk mencari penerima dana dengan tujuan kegiatan yang jelas di ruang lingkup kampus, diantaranya adalah :
+<br>
+1. Melakukan pencarian penerima dana masih sulit dengan tujuan kegiatan yang jelas untuk ruang lingkup kampus.
+<br>
+2. Sulitnya melakukan pencarian partnership dengan Organisasi/Komunitas kampus.
+<br>
+3. 3.	Kurangnya informasi event yang diselenggarakan oleh Organisasi/Komunitas kampus dan lokasi yang tidak terjangkau
+</p>
