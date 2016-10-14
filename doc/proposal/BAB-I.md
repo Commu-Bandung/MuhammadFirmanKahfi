@@ -34,8 +34,12 @@ Terdapat beberapa masalah yang dihadapi oleh perusahaan untuk mencari penerima d
 <br>
 Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
 1.	Aplikasi ini hanya bisa diakses oleh perusahaan penyedia sponsorship dan admin sebagai pengelola partnership dengan organisasi/komunitas kampus.
-2.	Aplikasi ini hanya dibatasi untuk Perusahaan dan Organisasi/Kampus diwilayah  Bandung.
-3.	Sub modul pengerjaan (Mempublikasikan event,lokasi event dan jadwal event, serta mengelola data perusahaan dan membantu melakukan kerjasama dengan organisasi/komunitas kampus)
+<br>
+2.	Aplikasi ini hanya dibatasi untuk Perusahaan dan Organisasi/Kampus diwilayah Bandung.
+<br>
+3.	Sub modul pengerjaan (Mempublikasikan event,lokasi event dan jadwal event, serta mengelola data perusahaan dan membantu melakukan kerjasama dengan organisasi/komunitas kampus).
+<br>
 4.	Aplikasi ini hanya dapat diatur dan dikelola oleh admin sebagai pengelola partnership dan sponsorship antara organisasi/komunitas kampus yang akan menyelenggarakan event dengan melibatkan perusahaan penyedia sponsorship dengan dukungan finansial/berupa feedback.
+<br>
 5.	Aplikasi ini berbasis portal website bahasa pemrograman PHP dengan framework Laravel dan mobile berbasis OS Android.
 </p>
