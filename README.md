@@ -4,7 +4,9 @@
 <p align="center">
   <img src="./img/laporan/logo-commu.png">
 </p>
-Commu is Application for find sponsorship and partnership  between the company and the organization / community in college
+Commu is Application for find sponsorship and partnership  between the company and the organization / community in college,
+Commu provide convenience to the Student Organization / Community on Campus Bandung area to find sponsors in order to make the event a great and interesting and make cooperation between the Company and Organization / Community on Campus.
+Commu Safe, Easy, Fast and Reliable to make Indonesia as the center of the digital economy in Southeast Asia
 
 # Pre Requisite
 ##Software
