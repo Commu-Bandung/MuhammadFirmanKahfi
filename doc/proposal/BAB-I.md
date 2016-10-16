@@ -44,7 +44,10 @@ Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
 5.	Aplikasi ini berbasis portal website bahasa pemrograman PHP dengan framework Laravel dan mobile berbasis OS Android.
 </p>
 <br>
-Jadwal Kegiatan Pekerjaan Proyek.
+
+<strong>1.5	Jadwal Kegiatan Pekerjaan Proyek</strong>
+<p align="justify">
+
 No|	Hari/ tanggal|	Kegiatan|	keterangan
 ------------ | ------------- | ------------- | -------------
 1	|24-30 Oktober  2016|	Pembuatan bab I|
