@@ -59,8 +59,26 @@ Laravel adalah framework PHP dengan kode terbuka (open source) dengan desain MVC
 </p>
 </p>
 <br>
-<strong>2.11.	Pengertian Model View Controller</strong>
+<strong>2.12.	Pengertian Model View Controller</strong>
 <p align="justify">
 Model-View-Controller atau MVC adalah sebuah metode untuk membuat sebuah aplikasi dengan memisahkan data (Model) dari tampilan (View) dan cara bagaimana memprosesnya (Controller).
+</p>
+<br>
+<strong>2.13.	Pengertian Android</strong>
+<p align="justify">
+Android adalah sebuah sistem operasi untuk perangkat mobile berbasis linux yang mencakup sistem operasi, middleware dan aplikasi.Android menyediakan platform terbuka bagi para pengembang untuk menciptakan aplikasi mereka. Awalnya, Google Inc. membeli Android Inc. yang merupakan pendatang baru yang membuat piranti lunak untuk ponsel/smartphone.
+<p align="center">
+  <img src="../../img/proposal/android.jpg">
+</p>
+</p>
+<br>
+<strong>2.14.	Pengertian Java</strong>
+<p align="justify">
+Bahasa java merupakan bahasa pemrograman yang simple, object oriented, distributed, interpreted, robust, secure, architecture neutral, portable, high performance, multithreaded dan dynamic. Simple karena java dikembangkan dari bahasa C++ dengan menghilangkan fungsi yang jarang digunakan dan kerumitan yang ada didalamnya serta memiliki sintaks yang hampir sama yang akan memberikan kemudahan dalam penggunaannya.
+</p>
+<br>
+<strong>2.15.	Pengertian Flow Map</strong>
+<p align="justify">
+Flowmap atau bagan alir adalah bagan yang menunjukan aliran di dalam program atau prosedur sistem secara logika. Flowmap ini berfungsi untuk memodelkan masukan, keluaran, proses maupun transaksi dengan menggunakan simbol-simbol tertentu. Pembuatan flowmap ini harus dapat memudahkan bagi pemakai dalam memahami alur dari sistem atau transaksi.
 </p>
 <br>
