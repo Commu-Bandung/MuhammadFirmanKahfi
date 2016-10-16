@@ -48,7 +48,7 @@ Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
 <strong>1.5	Jadwal Kegiatan Pekerjaan Proyek</strong>
 <p align="justify">
 
-No|	Hari/ tanggal|	Kegiatan|	keterangan
+No|	Hari/ tanggal|	Kegiatan|	Keterangan
 ------------ | ------------- | ------------- | -------------
 1	|24-30 Oktober  2016|	Pembuatan bab I|
 2	|31 Okt-6 Nov 2016|	Pembuatan bab II dan pada bab III (analisis)|
