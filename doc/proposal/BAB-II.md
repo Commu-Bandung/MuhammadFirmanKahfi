@@ -44,6 +44,8 @@ PHP adalah bahasa open source yang dapat digunakan di berbagai mesin (Linux, Uni
 <strong>2.9.	Pengertian RDBMS</strong>
 <p align="justify">
 MySQL adalah Relational Database Management System (RDBMS)[5] yang didistribusikan secara gratis dibawah lisensi GPL (General Public License). Dimana setiap orang bebas untuk menggunakan MySQL, namun tidak boleh dijadikan produk turunan yang bersifat komersial. MySQL sebenarnya merupakan turunan salah satu konsep utama dalam database sejak lama, yaitu SQL (Structured Query Language). SQL adalah sebuah konsep pengoperasian database, terutama untuk pemilihan atau seleksi dan pemasukan data, yang memungkinkan pengoperasian data dikerjakan dengan mudah secara otomatis.
+</p>
+<br>
 <strong>2.10.	Pengertian UML</strong>
 <p align="justify">
 UML adalah sebuah bahasa standard untuk pengembangan sebuah software yang dapat menyampaikan bagaimana membuat dan membentuk model-model, tetapi tidak menyampaikan apa dan kapan model yang seharusnya dibuat yang merupakan salah satu proses implementasi pengembangan software.
