@@ -43,3 +43,17 @@ Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
 <br>
 5.	Aplikasi ini berbasis portal website bahasa pemrograman PHP dengan framework Laravel dan mobile berbasis OS Android.
 </p>
+<br>
+Jadwal Kegiatan Pekerjaan Proyek.
+No|	Hari/ tanggal|	Kegiatan|	keterangan
+------------ | ------------- | ------------- | -------------
+1	|24-30 Oktober  2016|	Pembuatan bab I|
+2	|31 Okt-6 Nov 2016|	Pembuatan bab II dan pada bab III (analisis)|
+3	|7 - 13 Nov  2016|	Bab III (perancangan)|
+4	|14-20 Nov 2016|	Implementasi antarmuka aplikasi| 	
+5	|21-27 Nov 2016|	Implementasi aplikasi	Proses pengkodean|
+6	|28 Nov -4 Des 2016|	Implementasi aplikasi	Proses pengkodean|
+7	|5 -11  Des 2016| 	Implementasi aplikasi	Proses pengkodean|
+8	|12 – 18 Des 2016|	Bab IV dan Pengujian|
+9	|19-25 Des 2016|	Bab v (Kesimpulan dan saran)|
+10	|26 Des 2016 – 1 Jan 2017|	Mempersiapkan persyaratan-persyaratan sidang|
