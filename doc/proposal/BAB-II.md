@@ -1,5 +1,5 @@
-<h2 align="center">BAB II <br> PENDAHULUAN</h2>
-<strong>LANDASAN TEORI</strong>
+<h2 align="center">BAB II <br> LANDASAN TEORI</h2>
+
 
 <strong>2.1.	Pengertian Perancangan</strong>
 <p align="justify">
