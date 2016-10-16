@@ -54,9 +54,9 @@ No|	Hari/ tanggal|	Kegiatan|	keterangan
 2	|31 Okt-6 Nov 2016|	Pembuatan bab II dan pada bab III (analisis)|
 3	|7 - 13 Nov  2016|	Bab III (perancangan)|
 4	|14-20 Nov 2016|	Implementasi antarmuka aplikasi| 	
-5	|21-27 Nov 2016|	Implementasi aplikasi	Proses pengkodean|
-6	|28 Nov -4 Des 2016|	Implementasi aplikasi	Proses pengkodean|
-7	|5 -11  Des 2016| 	Implementasi aplikasi	Proses pengkodean|
+5	|21-27 Nov 2016|	Implementasi aplikasi| Proses pengkodean
+6	|28 Nov -4 Des 2016|	Implementasi aplikasi|	Proses pengkodean
+7	|5 -11  Des 2016| 	Implementasi aplikasi|	Proses pengkodean
 8	|12 – 18 Des 2016|	Bab IV dan Pengujian|
 9	|19-25 Des 2016|	Bab v (Kesimpulan dan saran)|
 10	|26 Des 2016 – 1 Jan 2017|	Mempersiapkan persyaratan-persyaratan sidang|
