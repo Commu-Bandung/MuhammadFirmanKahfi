@@ -53,7 +53,7 @@ UML adalah sebuah bahasa standard untuk pengembangan sebuah software yang dapat 
 <p align="justify">
 Laravel adalah framework PHP dengan kode terbuka (open source) dengan desain MVC (Model-View-Controller) yang digunakan untuk membangun aplikasi website. Framework ini pertama kali dibangun oleh Taylor Otwell pada tanggal 22 Pebruari 2012.[10]
 <p align="center">
-  <img src="../../img/laravel.jpg">
+  <img src="../../img/proposal/laravel.jpg">
 </p>
 </p>
 <br>
