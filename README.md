@@ -16,6 +16,13 @@ Commu Safe, Easy, Fast and Reliable to make Indonesia as the center of the digit
 * MySQL
 * Firebase Technology
 * Google Cloud Platform
+* Google App Engine Technology
+* Google Cloud Vision API
+
+Design
+* Semantics UI
+* Bootstrap
+* Material Design  
 
 
 ## Installation
