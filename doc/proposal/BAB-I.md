@@ -22,7 +22,6 @@ Terdapat beberapa masalah yang dihadapi oleh perusahaan untuk mencari penerima d
 <br>
 <strong>1.3	Tujuan</strong>
 <p align="justify">
-<br>
 1. Membantu dan memudahkan perusahaan untuk menemukan penerima dana dengan tujuan yang jelas diruang lingkup kampus.
 <br>
 2. Membuat sistem yang terkomputerisasi agar dapat membantu proses perusahaan untuk bisa melakukan kerjasama/partnership dengan organisasi/komunitas kampus
@@ -33,7 +32,6 @@ Terdapat beberapa masalah yang dihadapi oleh perusahaan untuk mencari penerima d
 <strong>1.4	Ruang Lingkup</strong>
 <p align="justify">
 Beberapa hal yang perlu dibatasi permasalahannya, diantaranya:
-<br>
 1.	Aplikasi ini hanya bisa diakses oleh perusahaan penyedia sponsorship dan admin sebagai pengelola partnership dengan organisasi/komunitas kampus.
 <br>
 2.	Aplikasi ini hanya dibatasi untuk Perusahaan dan Organisasi/Kampus diwilayah Bandung.
