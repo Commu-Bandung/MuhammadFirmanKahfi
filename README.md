@@ -13,7 +13,7 @@ Commu Safe, Easy, Fast and Reliable to make Indonesia as the center of the digit
 * Windows 10 Operating System
 * Laravel PHP Framework
 * Android Technology
-* MySQL
+* MySQL Database
 * Firebase Technology
 * Google Cloud Platform
 * Google App Engine Technology
