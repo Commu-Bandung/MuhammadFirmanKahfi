@@ -22,11 +22,12 @@ Terdapat beberapa masalah yang dihadapi oleh perusahaan untuk mencari penerima d
 <br>
 <strong>1.3	Tujuan</strong>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; Tujuan pembuatan proyek ini yaitu untuk membantu organisasi/komunitas dikampus menemukan sponsor yang sangat sulit didapatkan atau diterima oleh perusahaan dan juga membantu perusahaan untuk menemukan penerima dana dengan tujuan yang jelas diruang lingkup kampus, lalu perusahaan pun bisa melakukan kerjasama/partnership dengan organisasi/komunitas kampus.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Berdasarkan latar belakang yang sudah dipaparkan yaitu pesatnya perkembangan teknologi dan komunikasi yang akan sangat membantu untuk melakukan pencarian perusahaan yang menyediakan sponsorship untuk kegiatan yang diselenggarakan oleh organisasi atau komunitas dikampus, maka tujuan yang ingin dicapai adalah membuat sistem yang dapat membantu proses perusahaan untuk mencari penerima dana diruang lingkup kampus.
+1. Membantu dan memudahkan perusahaan untuk menemukan penerima dana dengan tujuan yang jelas diruang lingkup kampus.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Selain itu tujuan membuat proyek ini adalah mempermudah perusahaan untuk melakukan pencarian partnership dengan organisasi.komunitas kampus dengan sistem yang terkomputerisasi dab menyebarluaskan informasi event yang diselenggarakan oleh organisasi/komunitas kampus kepada perusahaan yang telah menjadi partnership.
+2. Membuat sistem yang terkomputerisasi agar dapat membantu proses perusahaan untuk bisa melakukan kerjasama/partnership dengan organisasi/komunitas kampus
+<br>
+3. Mempermudah perusahaan untuk mengelola partnership dengan organisasi atau komunitas kampus dengan sistem yang terkomputerisasi dan menyebarluaskan informasi event yang diselenggarakan oleh organisasi/komunitas kampus kepada perusahaan yang telah menjadi partnership.
 </p>
 <br>
 <strong>1.4	Ruang Lingkup</strong>
