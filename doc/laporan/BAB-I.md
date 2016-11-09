@@ -22,11 +22,11 @@ Terdapat beberapa masalah yang dihadapi oleh perusahaan untuk mencari penerima d
 <br>
 <strong>1.3	Tujuan</strong>
 <p align="justify">
-1. Membantu dan memudahkan perusahaan untuk menemukan penerima dana dengan tujuan yang jelas diruang lingkup kampus.
+1.Membantu dan memudahkan perusahaan untuk menemukan penerima dana dengan tujuan yang jelas diruang lingkup kampus.
 <br>
-2. Membuat sistem yang terkomputerisasi agar dapat membantu proses perusahaan untuk bisa melakukan kerjasama/partnership dengan organisasi/komunitas kampus
+2.Membuat sistem yang terkomputerisasi agar dapat membantu proses perusahaan untuk bisa melakukan kerjasama/partnership dengan organisasi/komunitas kampus
 <br>
-3. Mempermudah perusahaan untuk mengelola partnership dengan organisasi atau komunitas kampus dengan sistem yang terkomputerisasi dan menyebarluaskan informasi event yang diselenggarakan oleh organisasi/komunitas kampus kepada perusahaan yang telah menjadi partnership.
+3.Mempermudah perusahaan untuk mengelola partnership dengan organisasi atau komunitas kampus dengan sistem yang terkomputerisasi dan menyebarluaskan informasi event yang diselenggarakan oleh organisasi/komunitas kampus kepada perusahaan yang telah menjadi partnership.
 </p>
 <br>
 <strong>1.4	Ruang Lingkup</strong>
