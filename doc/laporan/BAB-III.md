@@ -38,6 +38,7 @@ Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antar
 		2.Pengelolaan Data Partnership
 
 3.1.2.3	Analisis Kebutuhan Perangkat Lunak dan Perangkat Keras
+<br>
 3.1.2.3.1	Analisis Kebutuhan Perangkat Lunak
 Spesifikasi perangkat lunak yang dibutuhkan adalah sebagai berikut :
 Tabel 3.1 Spesifikasi Perangkat Lunak
