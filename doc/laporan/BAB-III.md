@@ -13,7 +13,7 @@ Langkah-langkah yang harus dilakukan dalam tahap analisis sistem, yaitu :
 <br>
     &nbsp;&nbsp;&nbsp;3.1.1.1	Analisis Prosedur/Flowmap yang Berjalan
 <p align="center">
-  <img src="../../img/laporan/Jalan.png">
+  <img src="../../img/proposal/Jalan.PNG">
 </p>
 
 &nbsp;&nbsp;&nbsp;3.1.1.2 Analisis Dokumen yang digunakan
@@ -28,7 +28,7 @@ Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antar
 <br>
     &nbsp;&nbsp;&nbsp;3.1.2.1 Analisis Prosedur/Flow Map yang dibangun
 <p align="center">
-  <img src="../../img/laporan/Bangun.png">
+  <img src="../../img/proposal/Bangun.PNG">
 </p>
 
 &nbsp;&nbsp;&nbsp;3.1.2.2 Analisis Kebutuhan Aplikasi
