@@ -48,7 +48,7 @@ Tabel 3.1 Spesifikasi Perangkat Lunak
 No.|	Jenis	 |	Keterangan
 ------------ | ------------- | ------------- |
 1	| Sistem Operasi	|	Microsoft Windows 10 Pro 64bit
-2	| Bahasa Pemrograman 	|  Framework Laravel PHP,Java,Javascript Angular JS,  
+2	| Bahasa Pemrograman 	|  Framework Laravel PHP,Java,Javascript,Angular JS, Node JS, Express JS 
 3	| Database 	| 	MySQL,Firebase,Google Cloud Platform
 4	| Perangkat Lunak	| 	Visual Studio Code, Atom , Android Studio IDE
 
@@ -63,7 +63,7 @@ No| Jenis| Keterangan
 1 | Processor| Intel® core™i3 
 2 | Memory | 4 GB
 3 | Monitor | LCD 14,1 Inchi
-4 | Mouse dan keyboard | LStandard
+4 | Mouse dan keyboard | Standard
 
 
 
