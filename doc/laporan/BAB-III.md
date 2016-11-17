@@ -27,8 +27,6 @@ Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antar
 2.	Dokumen Data Dana Sponsorship.
 3.	Dokumen Data Kerjasama dengan Organisasi/Komunitas Kampus
 
-<br>
-
 &nbsp;&nbsp;&nbsp;3.1.2.2 Analisis Kebutuhan Aplikasi
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aplikasi Pencarian Sponsorship dan Partnership pada antara Organisasi/Komunitas Kampus dengan Perusahaan  (Sub Modul Pengelolaan Sponsor dari Perusahaan dan Partnership ini dibuat untuk memudahkan para perusahaan dalam melakukan pencarian penerima dana dan partnership. Sistem yang dibuat ini dapat memberikan :
