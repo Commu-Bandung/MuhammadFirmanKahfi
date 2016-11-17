@@ -23,8 +23,11 @@ Langkah-langkah yang harus dilakukan dalam tahap analisis sistem, yaitu :
 &nbsp;&nbsp;&nbsp;3.1.1.2 Analisis Dokumen yang digunakan
 
 Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antara Organisasi/Komunitas Kampus dengan Perusahaan  (Sub Modul Pengelolaan Sponsor dari Perusahaan dan Partnership , ada beberapa dokumen dari Perusahaan yang terlibat dan digunakan, antara lain : 
+<br>
 1.	Dokumen Data Perusahaan
+<br>
 2.	Dokumen Data Penerima Dana Sponsorship.
+<br>
 3.	Dokumen Data Kerjasama dengan Organisasi/Komunitas Kampus
 
 &nbsp;&nbsp;&nbsp;3.1.2.2 Analisis Kebutuhan Aplikasi
