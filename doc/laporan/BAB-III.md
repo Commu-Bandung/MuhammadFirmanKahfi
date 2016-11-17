@@ -44,7 +44,7 @@ Spesifikasi perangkat lunak yang dibutuhkan adalah sebagai berikut :
 Tabel 3.1 Spesifikasi Perangkat Lunak
 <br>
 No.|	Jenis	 |	Keterangan
------------- | ------------- | ------------- 
+------------ | ------------- | ------------- |
 1	| Sistem Operasi	|	Microsoft Windows 10 Pro 64bit
 2	| Bahasa Pemrograman 	|  Framework Laravel PHP,Java,Javascript Angular JS,  
 3	| Database 	| 	MySQL,Firebase,Google Cloud Platform
@@ -55,7 +55,7 @@ Pembuatan Sistem Informasi ini menggunakan perangkat keras sebagai berikut:
 Tabel 3.2 Spesifikasi Perangkat Keras
 <br>
 No| Jenis| Keterangan
------------- | ------------- | ------------- 
+------------ | ------------- | ------------- |
 1 | Processor| Intel® core™i3 
 2 | Memory | 4 GB
 3 | Monitor | LCD 14,1 Inchi
