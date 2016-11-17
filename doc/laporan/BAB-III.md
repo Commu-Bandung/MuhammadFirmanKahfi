@@ -24,12 +24,6 @@ Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antar
 3.	Dokumen Data Kerjasama dengan Organisasi/Komunitas Kampus
 
 <br>
-<strong>3.1.2	Analisis Sistem  yang akan dibangun</strong>
-<br>
-    &nbsp;&nbsp;&nbsp;3.1.2.1 Analisis Prosedur/Flow Map yang dibangun
-<p align="center">
-  <img src="../../img/laporan/Bangun.PNG">
-</p>
 
 &nbsp;&nbsp;&nbsp;3.1.2.2 Analisis Kebutuhan Aplikasi
 <br>
