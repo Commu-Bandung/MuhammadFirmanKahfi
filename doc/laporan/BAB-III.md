@@ -41,8 +41,10 @@ Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antar
 <br>
 3.1.2.3.1	Analisis Kebutuhan Perangkat Lunak
 Spesifikasi perangkat lunak yang dibutuhkan adalah sebagai berikut :
+<br>
 Tabel 3.1 Spesifikasi Perangkat Lunak
 <br>
+
 No.|	Jenis	 |	Keterangan
 ------------ | ------------- | ------------- |
 1	| Sistem Operasi	|	Microsoft Windows 10 Pro 64bit
@@ -52,10 +54,16 @@ No.|	Jenis	 |	Keterangan
 
 3.1.3	Analisis Kebutuhan Perangkat Keras
 Pembuatan Sistem Informasi ini menggunakan perangkat keras sebagai berikut:
+<br>
 Tabel 3.2 Spesifikasi Perangkat Keras
 <br>
-NPM| Nama| Kelas | Program Studi
------------- | ------------- | ------------- | -------------
-1144015| Muhammad Firman Kahfi| 3B| D4 Teknik Informatika Politeknik Pos Indonesia
+
+No| Jenis| Keterangan
+------------ | ------------- | ------------- |
+1 | Processor| Intel® core™i3 
+2 | Memory | 4 GB
+3 | Monitor | LCD 14,1 Inchi
+4 | Mouse dan keyboard | LStandard
+
 
 
