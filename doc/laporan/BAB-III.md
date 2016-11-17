@@ -57,12 +57,11 @@ No.|	Jenis	 |	Keterangan
 Pembuatan Sistem Informasi ini menggunakan perangkat keras sebagai berikut:
 Tabel 3.2 Spesifikasi Perangkat Keras
 <br>
-No.|	Jenis	| 	Keterangan
+No| Jenis| Keterangan
 ------------ | ------------- | ------------- 
-1	| Processor	|  Intel® core™i3 
-2	| Memory	| 	4 GB
-3	| Monitor	| 	LCD 14,1 Inchi
-4	| Mouse dan keyboard	|   Standard
-
+1 | Processor| Intel® core™i3 
+2 | Memory | 4 GB
+3 | Monitor | LCD 14,1 Inchi
+4 | Mouse dan keyboard | LStandard
 
 
