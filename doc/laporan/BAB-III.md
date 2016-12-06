@@ -17,7 +17,7 @@ Langkah-langkah yang harus dilakukan dalam tahap analisis sistem, yaitu :
 <br>
     &nbsp;&nbsp;&nbsp;3.1.1.1	Analisis Prosedur/Flowmap yang Berjalan
 <p align="center">
-  <img src="../../img/laporan/Jalan.PNG">
+  <img src="../../img/laporan/Proses_berjalan.PNG">
 </p>
 
 &nbsp;&nbsp;&nbsp;3.1.1.2 Analisis Dokumen yang digunakan
