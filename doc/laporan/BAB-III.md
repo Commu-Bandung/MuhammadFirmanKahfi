@@ -20,7 +20,17 @@ Langkah-langkah yang harus dilakukan dalam tahap analisis sistem, yaitu :
   <img src="../../img/laporan/Proses_berjalan.PNG">
 </p>
 
-&nbsp;&nbsp;&nbsp;3.1.1.2 Analisis Dokumen yang digunakan
+<h4 align="center">Proses yang sedang berjalan</h4>
+
+<p align="center">
+  <img src="../../img/laporan/Sub_login.PNG">
+</p>
+
+
+<h4 align="center">Sub Login</h4>
+&nbsp;&nbsp;&nbsp;
+
+3.1.1.2 Analisis Dokumen yang digunakan
 
 Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antara Organisasi/Komunitas Kampus dengan Perusahaan  (Sub Modul Pengelolaan Sponsor dari Perusahaan dan Partnership , ada beberapa dokumen dari Perusahaan yang terlibat dan digunakan, antara lain : 
 <br>
@@ -29,6 +39,16 @@ Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antar
 2.	Dokumen Data Penerima Dana Sponsorship.
 <br>
 3.	Dokumen Data Kerjasama dengan Organisasi/Komunitas Kampus
+
+&nbsp;&nbsp;&nbsp;3.1.2	Analisis Sistem  yang akan dibangun
+<br>
+&nbsp;&nbsp;&nbsp;Analisis Prosedur/Flow Map yang dibangun
+<br>
+
+<p align="center">
+  <img src="../../img/laporan/Proses_dibangun.PNG">
+</p>
+<h4 align="center">Bisnis prosses yang akan dibangun</h4>
 
 &nbsp;&nbsp;&nbsp;3.1.2.2 Analisis Kebutuhan Aplikasi
 <br>
@@ -68,5 +88,12 @@ No| Jenis| Keterangan
 3 | Monitor | LCD 14,1 Inchi
 4 | Mouse dan keyboard | Standard
 
+3.2	Perancangan
+3.2.1	Use Case Diagram
+Diagram Use Case dari aplikasi  ini adalah sebagai berikut :
 
+<p align="center">
+  <img src="../../img/laporan/Use_Case.PNG">
+</p>
+<h4 align="center">Use Case Diagram</h4>
 
