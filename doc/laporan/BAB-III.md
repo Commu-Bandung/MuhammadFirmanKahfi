@@ -93,11 +93,12 @@ No| Jenis| Keterangan
 Diagram Use Case dari aplikasi  ini adalah sebagai berikut :
 
 <p align="center">
-  <img src="../../img/laporan/Use_Case.PNG">
+  <img src="../../img/laporan/usecase.PNG">
 </p>
 <h4 align="center">Use Case Diagram</h4>
 
 Tabel 3.3. Definisi Aktor
+<br>
 No|	Aktor|	Keterangan
 ------------ | ------------- | ------------- |
 1 |	Anggota Perusahaan |	Anggota dari Perusahaan yang akan memberikan dana sebagai Member mempunyai hak akses untuk mereview proposal dan memberikan bantuan pendanaan dan bantuan Opsional.
@@ -105,6 +106,7 @@ No|	Aktor|	Keterangan
 3 |	Organisasi |	Pengguna dari Organisasi yang mempunyai hak akses Mengirim Proposal dan Menerima Bantuan dari Perusahaan.
 
 Tabel 3.4. Definisi Use Case
+<br>
 No|	Aktor|	Keterangan
 ------------ | ------------- | ------------- |
 1 |	UC-01 Registrasi |	Mendaftarkan Perusahaan beserta persyaratannya
