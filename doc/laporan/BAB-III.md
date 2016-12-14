@@ -124,19 +124,20 @@ No|	Aktor| Keterangan
 
 <h4 align="center">3.2.1.1	Skenario Use Case</h4>
 <br>
-Tabel 3.5 Skenario Use Case Registrasi
+Tabel 3.5 Skenario Use Case Registrasi<br>
 
-Identifikasi
-Nomor |	UC-01 |
-Nama	Registrasi
-Tujuan	Melakukan pendataan dan validitias perusahaan
-Deskripsi	Mendaftar sebagai anggota perusahaan di sistem aplikasi
-Aktor	Anggota Perusahaan
-Skenario
-Kondisi Awal	Menampilkan halaman utama lalu pilih registrasi
-Aksi Aktor	Reaksi Sistem
-1. Aktor meminta halaman registrasi	2. Menampilkan halaman registrasi
-3.Memasukan Identitas diri dan perusahaan	4. Melakukan proses validasi
+Identifikasi| ...
+------------ | -------------
+Nomor | UC-01 
+Nama | Registrasi
+Tujuan | Melakukan pendataan dan validitias perusahaan
+Deskripsi	| Mendaftar sebagai anggota perusahaan di sistem aplikasi
+Aktor	| Anggota Perusahaan
+Skenario | 
+Kondisi Awal | Menampilkan halaman utama lalu pilih registrasi
+Aksi | Aktor	Reaksi Sistem
+1. Aktor meminta halaman registrasi |	2. Menampilkan halaman registrasi
+3.Memasukan Identitas diri dan perusahaan	| 4. Melakukan proses validasi
 
 <br>
 Tabel 3.6 Skenario Use Case Login
