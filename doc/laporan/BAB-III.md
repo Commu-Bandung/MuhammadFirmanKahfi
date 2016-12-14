@@ -100,16 +100,16 @@ Diagram Use Case dari aplikasi  ini adalah sebagai berikut :
 
 Tabel 3.3. Definisi Aktor
 <br>
-No.|	Aktor| Keterangan
------------- | ------------- | ------------- |
-1 |	Anggota Perusahaan |	Anggota dari Perusahaan yang akan memberikan dana sebagai Member mempunyai hak akses untuk mereview proposal dan memberikan bantuan pendanaan dan bantuan Opsional.
+No| Aktor| Keterangan
+------------ | ------------- | -------------
+1 |	Anggota Perusahaan | Anggota dari Perusahaan yang akan memberikan dana sebagai Member mempunyai hak akses untuk mereview proposal dan memberikan bantuan pendanaan dan bantuan Opsional.
 2 |	Admin |	Mempunyai hak akses untuk memvalidasi syarat pendaftaran baik Perusahaan maupun Organisasi dan Distribusi Proposal
 3 |	Organisasi |	Pengguna dari Organisasi yang mempunyai hak akses Mengirim Proposal dan Menerima Bantuan dari Perusahaan.
-
+<br>
 Tabel 3.4. Definisi Use Case
 <br>
-No|	Aktor| Keterangan
------------- | ------------- | ------------- |
+No| Aktor| Keterangan
+------------ | ------------- | -------------
 1 |	UC-01 Registrasi | Mendaftarkan Perusahaan beserta persyaratannya
 2	| UC-02 Login |	Proses Login
 3	| UC-03 Kelola Proposal |	Menerima Proposal yang dikirim dari Organisasi
