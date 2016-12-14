@@ -142,8 +142,8 @@ Aksi | Aktor	Reaksi Sistem
 3.Memasukan Identitas diri dan perusahaan	| 4. Melakukan proses validasi
 
 <br>
-Tabel 3.6 Skenario Use Case Login
-<br>
+Tabel 3.6 Skenario Use Case Login<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor |	UC-02 
@@ -161,8 +161,8 @@ jika salah keduanya muncul pesan “Username dan Password yang anda masukan tida
 Kondisi Akhir	Menampilkan form halaman utama
 
 <br>
-Tabel 3.7 Skenario Use Case UC-03 Kelola Proposal
-<br>
+Tabel 3.7 Skenario Use Case UC-03 Kelola Proposal<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor	| UC-03
