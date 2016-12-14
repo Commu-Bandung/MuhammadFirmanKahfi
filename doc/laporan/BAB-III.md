@@ -161,7 +161,7 @@ jika salah keduanya muncul pesan “Username dan Password yang anda masukan tida
 Kondisi Akhir	Menampilkan form halaman utama
 
 <br>
-Tabel 3.6 Skenario Use Case UC-03 Kelola Proposal
+Tabel 3.7 Skenario Use Case UC-03 Kelola Proposal
 <br>
 Identifikasi| ...
 ------------ | -------------
