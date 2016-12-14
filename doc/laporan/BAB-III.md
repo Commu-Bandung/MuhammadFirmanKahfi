@@ -144,36 +144,36 @@ Aksi | Aktor	Reaksi Sistem
 <br>
 Tabel 3.6 Skenario Use Case Login
 <br>
-Identifikasi
-Nomor	UC-02 
-Nama	Login
-Tujuan	Melakukan login untuk masuk halaman utama
-Deskripsi	Login dengan memasukan Username dan Password
-Aktor	Anggota Perusahaan, Admin , Organisasi
-Skenario
-Kondisi Awal	Menampilkan form login
-Aksi Aktor	Reaksi Sistem
-1.    Aktor meminta fasilitas login kepada sistem 	2.     Menampilkan form login
-3.    Memasukan Username dan Password	4. Melakukan proses validasi
+Identifikasi| ...
+------------ | -------------
+Nomor |	UC-02 
+Nama | Login
+Tujuan |	Melakukan login untuk masuk halaman utama
+Deskripsi |	Login dengan memasukan Username dan Password
+Aktor |	Anggota Perusahaan, Admin , Organisasi
+Skenario |
+Kondisi Awal | Menampilkan form login
+Aksi | Aktor	Reaksi Sistem
+1.    Aktor meminta fasilitas login kepada sistem |	2.     Menampilkan form login
+3.    Memasukan Username dan Password	| 4. Melakukan proses validasi
 jika salah keduanya muncul pesan “Username dan Password yang anda masukan tidak cocok”.
-	
-	5. Jika masih salah, kembali ke form login.
-	6. Jika benar maka akan ditampilkan form halaman utama.
+5. Jika masih salah, kembali ke form login. | 6. Jika benar maka akan ditampilkan form halaman utama.
 Kondisi Akhir	Menampilkan form halaman utama
 
 <br>
 Tabel 3.6 Skenario Use Case UC-03 Kelola Proposal
 <br>
-Identifikasi
-Nomor	UC-03
-Nama	UC-03 Kelola Proposal
-Tujuan	Melihat proposal yang masuk ke perusahaan yang sudah diperiksa dan dinilai oleh admin.
-Deskripsi	Perusahaan menerima proposal dari organisasi yang telah divalidasi oleh admin melalui sistem 
-Aktor	Anggota Perusahaan
-Skenario
-Kondisi Awal	Menampilkan halaman dashboard perusahaan lalu ada notifikasi proposal masuk yang telah diperiksa oleh admin.
-Aksi Aktor	Reaksi Sistem
-1.Meminta halaman notifikasi proposal masuk	2.Menampilkan halaman notifikasi proposal
+Identifikasi| ...
+------------ | -------------
+Nomor	| UC-03
+Nama |	UC-03 Kelola Proposal
+Tujuan |	Melihat proposal yang masuk ke perusahaan yang sudah diperiksa dan dinilai oleh admin.
+Deskripsi |	Perusahaan menerima proposal dari organisasi yang telah divalidasi oleh admin melalui sistem 
+Aktor |	Anggota Perusahaan
+Skenario |
+Kondisi Awal |	Menampilkan halaman dashboard perusahaan lalu ada notifikasi proposal masuk yang telah diperiksa oleh admin.
+Aksi | Aktor	Reaksi Sistem
+1.Meminta halaman notifikasi proposal masuk	| 2.Menampilkan halaman notifikasi proposal
 
 <br>
 Tabel 3.7 Skenario Use Case Review Proposal
