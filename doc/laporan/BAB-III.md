@@ -155,8 +155,7 @@ Skenario |
 Kondisi Awal | Menampilkan form login
 Aksi | Aktor	Reaksi Sistem
 1.    Aktor meminta fasilitas login kepada sistem |	2.     Menampilkan form login
-3.    Memasukan Username dan Password	| 4. Melakukan proses validasi
-jika salah keduanya muncul pesan “Username dan Password yang anda masukan tidak cocok”.
+3.    Memasukan Username dan Password	| 4. Melakukan proses validasi jika salah keduanya muncul pesan “Username dan Password yang anda masukan tidak cocok”.
 5. Jika masih salah, kembali ke form login. | 6. Jika benar maka akan ditampilkan form halaman utama.
 Kondisi Akhir	Menampilkan form halaman utama
 
