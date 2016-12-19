@@ -164,7 +164,7 @@ Tabel 3.7 Skenario Use Case UC-03 Kelola Proposal<br>
 Identifikasi| ...
 ------------ | -------------
 Nomor	| UC-03
-Nama |	UC-03 Kelola Proposal
+Nama |	Kelola Proposal
 Tujuan |	Melihat proposal yang masuk ke perusahaan yang sudah diperiksa dan dinilai oleh admin.
 Deskripsi |	Perusahaan menerima proposal dari organisasi yang telah divalidasi oleh admin melalui sistem 
 Aktor |	Anggota Perusahaan
@@ -174,112 +174,110 @@ Aksi | Aktor	Reaksi Sistem
 1.Meminta halaman notifikasi proposal masuk	| 2.Menampilkan halaman notifikasi proposal
 
 <br>
-Tabel 3.7 Skenario Use Case Review Proposal
-<br>
-Identifikasi
-Nomor	UC-04
-Nama	Review Proposal
-Tujuan	Melakukan penilaian dan mereview proposal dari organisasi,
-Deskripsi	Proposal yang sudah masuk ke perusahaan akan direview langsung oleh anggota kemudian perusahaan memberikan keputusan hasil review
-Aktor	Anggota Perusahaan
-Skenario
-Kondisi Awal	Menampilkan halaman pemberitahuan proposal masuk kemudian pilih review proposal 
-Aksi Aktor	Reaksi Sistem
-1.Meminta halaman pemberitahuan proposal masuk	Menampilkan halaman pemberitahuan proposal masuk
-2. Mereview proposal	2.     Menampilkan halaman review proposal
-3.   Meminta halaman kirim hasil proposal ke organisasi
-4.     Menampilkan halaman pengiriman proposal
+Tabel 3.7 Skenario Use Case Review Proposal<br>
+
+Identifikasi| ...
+------------ | -------------
+Nomor	| UC-04
+Nama	| Review Proposal
+Tujuan |	Melakukan penilaian dan mereview proposal dari organisasi,
+Deskripsi	| Proposal yang sudah masuk ke perusahaan akan direview langsung oleh anggota kemudian perusahaan memberikan keputusan hasil review
+Aktor	| Anggota Perusahaan
+Skenario |
+Kondisi Awal |	Menampilkan halaman pemberitahuan proposal masuk kemudian pilih review proposal 
+Aksi | Aktor 	Reaksi Sistem
+1.Meminta halaman pemberitahuan proposal masuk	| 2. Menampilkan halaman pemberitahuan proposal masuk
+3. Mereview proposal	| 4.Menampilkan halaman review proposal
+5. Meminta halaman kirim hasil proposal ke organisasi. | 6. Menampilkan halaman pengiriman proposal
 
 <br>
-Tabel 3.8 Skenario Use Case Beri Bantuan Dana
-<br>
-Identifikasi
-Nomor	UC-05
-Nama	Beri Bantuan Dana
-Tujuan	Memberikan bantuan berupa dana ketika proposal sudah diterima oleh perusahaan
-Deskripsi	Perusahaan akan memberikan bantuan berupa dana yang sesuai diajukan oleh organisasi
-Aktor	Anggota Perusahaan
-Skenario
-Kondisi Awal	Menampilkan halaman kirim dana untuk event dari organisasi.
-Aksi Aktor	Reaksi Sistem
-1.Meminta halaman pengiriman dana dan meminta nama organisasi yang akan diberi dana.	2.Menampilkan halaman Data Pengiriman Dana
-3. Masukan dana yang akan dikirim	4. Menampilkan halaman pendanaan  
-5. Mengirim Jumlah dana dan diproses oleh admin kemudian diteruskan ke Organisasi melalui Nomor Rekening Organisasi yang telah didaftarkan sendiri oleh Organisasi
-	6.Menampilkan halaman pengiriman dana.
+Tabel 3.8 Skenario Use Case Beri Bantuan Dana<br>
+Identifikasi| ...
+------------ | -------------
+Nomor	| UC-05
+Nama	| Beri Bantuan Dana
+Tujuan	| Memberikan bantuan berupa dana ketika proposal sudah diterima oleh perusahaan
+Deskripsi	| Perusahaan akan memberikan bantuan berupa dana yang sesuai diajukan oleh organisasi
+Aktor	| Anggota Perusahaan
+Skenario |
+Kondisi Awal	| Menampilkan halaman kirim dana untuk event dari organisasi.
+Aksi | Aktor	Reaksi Sistem
+1.Meminta halaman pengiriman dana dan meminta nama organisasi yang akan diberi dana. |	2.Menampilkan halaman Data Pengiriman Dana
+3. Masukan dana yang akan dikirim	 | 4. Menampilkan halaman pendanaan  
+5. Mengirim Jumlah dana dan diproses oleh admin kemudian diteruskan ke Organisasi melalui Nomor Rekening Organisasi yang telah didaftarkan sendiri oleh Organisasi | 6.Menampilkan halaman pengiriman dana.
 
 <br>
-Tabel 3.9 Skenario Use Case Bantuan Kerjasama
-<br>
-Identifikasi
-Nomor	UC-06
-Nama	Bantuan Kerjasama
-Tujuan	Memberikan bantuan pilihan lain yaitu berupa kerjasama dengan organisasi
-Deskripsi	Perusahaan akan memberikan bantuan berupa kerjasama untuk mempromosikan produk perusahaan atau menjual produk perusahaan
-Aktor	Anggota Perusahaan
-Skenario
-Kondisi Awal	Menampilkan halaman bantuan kerjasama
-Aksi Aktor	Reaksi Sistem
-1.Meminta halaman bantuan kerjasama	2.Menampilkan halaman bantuan kerjasama
-3. Masukan jenis kerjasama 	4. Menampilkan halaman Jenis Kerjasama
-5. Mengirim jenis bantuan kerjasama ke perusahaan
-	6.Menampilkan halaman proses kerjasama
+Tabel 3.9 Skenario Use Case Bantuan Kerjasama<br>
+Identifikasi| ...
+------------ | -------------
+Nomor	| UC-06
+Nama	| Bantuan Kerjasama
+Tujuan	| Memberikan bantuan pilihan lain yaitu berupa kerjasama dengan organisasi
+Deskripsi	| Perusahaan akan memberikan bantuan berupa kerjasama untuk mempromosikan produk perusahaan atau menjual produk perusahaan
+Aktor	| Anggota Perusahaan
+Skenario |
+Kondisi Awal	| Menampilkan halaman bantuan kerjasama
+Aksi | Aktor	Reaksi Sistem
+1.Meminta halaman bantuan kerjasama	| 2.Menampilkan halaman bantuan kerjasama
+3. Masukan jenis kerjasama 	| 4. Menampilkan halaman Jenis Kerjasama
+5. Mengirim jenis bantuan kerjasama ke perusahaan | 6.Menampilkan halaman proses kerjasama
 
 
 <br>
-Tabel 3.10 Skenario Use Case Validasi Syarat
-<br>
-Identifikasi
-Nomor	UC-07
-Nama	Validasi Syarat
-Tujuan	Mengecek kelengkapan proposal
-Deskripsi	Admin mengecek kelengkapan proposal yang diajukan anggota
-Aktor	Admin
-Skenario
-Kondisi Awal	Menampilkan halaman utama aplikasi, lalu mucul notifikasi
-Aksi Aktor	Reaksi Sistem
-1.	Periksa kelengkaapan, pilih button tolak	•  Menampilkan notifikasi ke anggota, dan mengirim pesan bahwa proposal anda tidak lengkap serta alasannya.
-•  Apabila lengkap, pilih button terima	•  Masuk ke menu distribusi proposal
+Tabel 3.10 Skenario Use Case Validasi Syarat<br>
+Identifikasi| ...
+------------ | -------------
+Nomor	| UC-07
+Nama	| Validasi Syarat
+Tujuan	| Mengecek kelengkapan proposal
+Deskripsi	| Admin mengecek kelengkapan proposal yang diajukan anggota
+Aktor	| Admin
+Skenario |
+Kondisi Awal	| Menampilkan halaman utama aplikasi, lalu muncul notifikasi
+Aksi | Aktor	Reaksi Sistem
+1.	Periksa kelengkaapan, pilih button tolak	| 2.  Menampilkan notifikasi ke anggota, dan mengirim pesan bahwa proposal anda tidak lengkap serta alasannya.
+3.  Apabila lengkap, pilih button terima	| 4.  Masuk ke menu distribusi proposal
 
 <br>
-Tabel 3.10 Skenario Use Case distribusi proposal
-<br>
-Identifikasi
-Nomor	UC-08
-Nama	Mendistribusikan proposal
-Tujuan	Mengirimkan proposal ke perusahaan
-Deskripsi	Admin memilih perusahaan yang akan dikirim proposal 
-Aktor	Admin
-Skenario
-Kondisi Awal	Menu distribusi proposal
-Aksi Aktor	Reaksi Sistem
-1.	Pilih perusahaan yang akan dikirim proposal, lalu kirimkan	•  Mengirimkan file proposal ke perusahaan yang dituju.
+Tabel 3.10 Skenario Use Case distribusi proposal<br>
+Identifikasi| ...
+------------ | -------------
+Nomor	| UC-08
+Nama	| Mendistribusikan proposal
+Tujuan	| Mengirimkan proposal ke perusahaan
+Deskripsi	| Admin memilih perusahaan yang akan dikirim proposal 
+Aktor	| Admin
+Skenario |
+Kondisi Awal	| Menu distribusi proposal
+Aksi | Aktor	Reaksi Sistem
+1.	Pilih perusahaan yang akan dikirim proposal, lalu kirimkan	| 2  Mengirimkan file proposal ke perusahaan yang dituju.
 
 <br>
-Tabel 3.11  Skenario Use Case Kirim proposal
-<br>
-Identifikasi
-Nomor	UC-09
-Nama	Kirim proposal
-Tujuan	Mengajukan proposal untuk mengadakan event
-Deskripsi	Mengirimkan proposal ke admin untuk di validasi syarat-syaratnya, apabila valid maka dikirim ke perusahaan untuk direview.
-Aktor	Organisasi
-Skenario
-Kondisi Awal	Menampilkan halaman utama pilih ajukan proposal
-Aksi Aktor	Reaksi Sistem
-1.	Meminta halaman ajukan proposal	•  Menampilkan halaman yang diminta
-•  Masukan proposal 	•  Menampilkan notifikasi proposal sudah dikirim
+Tabel 3.11  Skenario Use Case Kirim proposal<br>
+Identifikasi| ...
+------------ | -------------
+Nomor	| UC-09
+Nama	| Kirim proposal
+Tujuan |	Mengajukan proposal untuk mengadakan event
+Deskripsi	| Mengirimkan proposal ke admin untuk di validasi syarat-syaratnya, apabila valid maka dikirim ke perusahaan untuk direview.
+Aktor	| Organisasi
+Skenario |
+Kondisi Awal |	Menampilkan halaman utama pilih ajukan proposal
+Aksi | Aktor	Reaksi Sistem
+1.	Meminta halaman ajukan proposal	| 2. Menampilkan halaman yang diminta
+3.  Masukan proposal 	| 4.  Menampilkan notifikasi proposal sudah dikirim
 
 <br>
-Tabel 3.12  Skenario Use Case Terima Bantuan
-<br>
-Identifikasi
-Nomor	UC-10
-Nama	Terima Bantuan
-Tujuan	Menerima Bantuan dari Perusahaan
-Deskripsi	Organisasi menerima bantuan dari perusahaan setelah proposal diterima
-Aktor	Organisasi
-Skenario
-Kondisi Awal	Menampilkan halaman utama pemberitahuan bantuan masuk
-Aksi Aktor	Reaksi Sistem
-1.Meminta halaman bantuan masuk	2. Menampilkan halaman bantuan masuk
-3.Meminta halaman proses penerimaan bantuan 	4. Menampilkan proses penerimaan bantuan
+Tabel 3.12  Skenario Use Case Terima Bantuan<br>
+Identifikasi| ...
+------------ | -------------
+Nomor |	UC-10
+Nama | Terima Bantuan
+Tujuan |	Menerima Bantuan dari Perusahaan
+Deskripsi	| Organisasi menerima bantuan dari perusahaan setelah proposal diterima
+Aktor |	Organisasi
+Skenario |
+Kondisi Awal |	Menampilkan halaman utama pemberitahuan bantuan masuk
+Aksi | Aktor	Reaksi Sistem
+1.Meminta halaman bantuan masuk |	2. Menampilkan halaman bantuan masuk
+3.Meminta halaman proses penerimaan bantuan |	4. Menampilkan proses penerimaan bantuan
