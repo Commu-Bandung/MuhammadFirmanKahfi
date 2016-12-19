@@ -122,7 +122,7 @@ No| Jenis| Keterangan
 Diagram Use Case dari aplikasi  ini adalah sebagai berikut :
 
 <p align="center">
-  <img src="../../img/laporan/usecase.PNG">
+  <img src="../../img/laporan/UseCase.jpg">
 </p>
 <h4 align="center">Use Case Diagram</h4>
 
