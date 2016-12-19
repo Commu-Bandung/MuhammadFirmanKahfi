@@ -22,12 +22,15 @@ Langkah-langkah yang harus dilakukan dalam tahap analisis sistem, yaitu :
 
 <h4 align="center">Proses yang sedang berjalan</h4>
 
+<br>
+
 <p align="center">
-  <img src="../../img/laporan/Sub_login.PNG">
+  <img src="../../img/laporan/berjalan.PNG">
 </p>
 
+<h4 align="center">Laporan BPMN Proses yang sedang berjalan </h4>
 
-<h4 align="center">Sub Login</h4>
+
 &nbsp;&nbsp;&nbsp;
 
 3.1.1.2 Analisis Dokumen yang digunakan
@@ -49,6 +52,31 @@ Dalam proses pembuatan Aplikasi Pencarian Sponsorship dan Partnership pada antar
   <img src="../../img/laporan/Proses_dibangun.PNG">
 </p>
 <h4 align="center">Bisnis prosses yang akan dibangun</h4>
+
+<br>
+
+<p align="center">
+  <img src="../../img/laporan/dibangun.PNG">
+</p>
+
+<h4 align="center">Laporan BPMN Proses yang akan dibangun </h4>
+
+<br>
+
+<p align="center">
+  <img src="../../img/laporan/login.PNG">
+</p>
+
+<h4 align="center">Laporan BPMN Sub Proses Login </h4>
+
+<br>
+
+<p align="center">
+  <img src="../../img/laporan/Sub_login.PNG">
+</p>
+
+
+<h4 align="center">Sub Login</h4>
 
 &nbsp;&nbsp;&nbsp;3.1.2.2 Analisis Kebutuhan Aplikasi
 <br>
@@ -126,6 +154,11 @@ No| Aktor| Keterangan
 
 <h4 align="center">3.2.1.1	Skenario Use Case</h4>
 <br>
+<p align="center">
+  <img src="../../img/laporan/SequenceDiagram_Anggota_Perusahaan.jpg">
+</p>
+<h4 align="center">Use Case Registrasi</h4>
+
 Tabel 3.5 Skenario Use Case Registrasi<br>
 
 Identifikasi| ...
