@@ -192,6 +192,7 @@ Aksi | Aktor 	Reaksi Sistem
 
 <br>
 Tabel 3.8 Skenario Use Case Beri Bantuan Dana<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor	| UC-05
@@ -208,6 +209,7 @@ Aksi | Aktor	Reaksi Sistem
 
 <br>
 Tabel 3.9 Skenario Use Case Bantuan Kerjasama<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor	| UC-06
@@ -225,6 +227,7 @@ Aksi | Aktor	Reaksi Sistem
 
 <br>
 Tabel 3.10 Skenario Use Case Validasi Syarat<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor	| UC-07
@@ -240,6 +243,7 @@ Aksi | Aktor	Reaksi Sistem
 
 <br>
 Tabel 3.10 Skenario Use Case distribusi proposal<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor	| UC-08
@@ -254,6 +258,7 @@ Aksi | Aktor	Reaksi Sistem
 
 <br>
 Tabel 3.11  Skenario Use Case Kirim proposal<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor	| UC-09
@@ -269,6 +274,7 @@ Aksi | Aktor	Reaksi Sistem
 
 <br>
 Tabel 3.12  Skenario Use Case Terima Bantuan<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor |	UC-10
